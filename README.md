@@ -1,2 +1,2 @@
 # cookiespage
-Simple Cookies Accept Page
+simple cookies accept page
